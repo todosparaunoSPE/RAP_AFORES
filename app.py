@@ -20,12 +20,9 @@ st.set_page_config(
 with st.sidebar:
     st.title("Créditos")
     st.markdown("---")
-    st.subheader("Autor de la letra")
     st.markdown("""
     **Javier Horacio Pérez Ricárdez**  
-    *Analista UEAP "B"*  
-    *Subdirección de Planeación Estratégica*
-    """)
+     """)
     st.markdown("---")
     #st.image("https://cdn.pixabay.com/photo/2017/01/31/15/33/avatar-2027360_640.png", 
     #         width=150, caption="Autor del RAP")
